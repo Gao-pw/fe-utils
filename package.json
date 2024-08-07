@@ -1,0 +1,14 @@
+{
+  "name": "@siroi/fe-utils",
+  "version": "1.0.0",
+  "description": "常用的前端方法工具集",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint-commit": "easyfront commitlint",
+    "commit": "easyfront commit"
+  },
+  "keywords": [],
+  "author": "siroi",
+  "license": "ISC"
+}
