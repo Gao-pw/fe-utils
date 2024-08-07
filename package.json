@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint-commit": "easyfront commitlint",
-    "commit": "easyfront commit"
+    "commit": "easyfront commit",
+    "init": "easyfront init-hooks"
   },
   "keywords": [],
   "author": "siroi",
